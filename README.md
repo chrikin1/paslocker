@@ -9,7 +9,7 @@
 This is an application where you can create an account and create a password or the app can generate the password for you and also can save and display the account details
 You can navigate through my app using codes which will be displayed in the app.
 
-[link](https://github.com/chrikin1/password-locker) will take you to my live site on Git Hub
+[link](https://github.com/chrikin1/paslocker) will take you to my live site on Git Hub
 
 ## Setup
 
